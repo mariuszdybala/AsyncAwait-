@@ -1,0 +1,17 @@
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\bin\Debug\MyLogin.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\bin\Debug\MyLogin.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\bin\Debug\MyLogin.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLoginDeadLocking.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLoginDeadLocking.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\4-asynchronous-programming\Demo 2 - Deadlocking\MyLogin\MyLogin\obj\Debug\MyLogin.pdb

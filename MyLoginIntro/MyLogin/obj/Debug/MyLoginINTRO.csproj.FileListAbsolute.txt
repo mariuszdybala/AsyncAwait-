@@ -1,0 +1,6 @@
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLogin\MyLogin\bin\Debug\MyLogin.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLogin\MyLogin\obj\Debug\MyLogin.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLogin\MyLogin\obj\Debug\MyLogin.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLoginIntro\MyLogin\bin\Debug\MyLogin.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLoginIntro\MyLogin\obj\Debug\MyLogin.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!!!!!!!!!!Xamarin\AsyncAwait\CalaSolucja\MyLoginIntro\MyLogin\obj\Debug\MyLogin.pdb
